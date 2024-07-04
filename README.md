@@ -28,6 +28,6 @@
 ------
 
 
-[CristhianRojasBeliido]([[https://github.com/CristhianRojasBellido]
+[CristhianRojasBellido](https://github.com/CristhianRojasBellido)
 
 Last Edited on: 04/07/2024
